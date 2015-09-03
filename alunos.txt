@@ -1,0 +1,2 @@
+$ cd matesp - Para abrir a pasta
+$ mkdir ingridnarataina - Para criar o arquivo
