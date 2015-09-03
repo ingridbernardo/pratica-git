@@ -1,0 +1,10 @@
+$ ls - Para ver o que tem na pasta
+$ cd Users - Para abrir a pasta Users
+$ ls - para abrir o que tem na pasta Users
+$ cd Ingrid - Para abrir o usuário Ingrid
+$ ls - Para mostrar as pastas dentro do usuário Ingrid
+$ cd Desktop - Para abrir a pasta Desktop
+$ mkdir matesp - Para criar a pasta matesp dentro do Desktop
+$ cd matesp - Para abrir a pasta matesp
+
+
