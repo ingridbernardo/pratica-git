@@ -1,2 +1,3 @@
+primeira pratica valendo nota - 03/09/2015
 $ cd matesp - Para abrir a pasta
 $ mkdir ingridnarataina - Para criar o arquivo
