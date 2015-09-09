@@ -1,0 +1,13 @@
+jogo das cartas
+1 - a partir da primeira cata que está localizada na ponta esquerda, viramos a carta na posição 2 com a primeira, procurando manter sempre a de menor valor na esquerda.
+Repetindo este processo para as combinações 1,3 ; 1,4; 1,5; respectivamente.
+É feito este mesmo processo com a segunda, terceira, quarta e quinta carta. Exemplo: 2,3; 2,4; 2,5; 3,4; 3,5; 4,5.
+Lembrando de manter a carta de menor valor na esquerda.
+2- versão reduzida: começando com a primeira carta da esquerda, vire e compare com as suas sucessoras, de par em par, simultaneamente. Troque as cartas de posição quando a de menor valor estiver na direita. Em seguida vire-as de volta.
+3- intruções apresentadas pelo professor: 0=i; i+1=j 
+Para i indo de 0 até N-2 faça:
+Para j indo de i+1 até n-1, faça:
+Se carta i > carta j 
+temp <-- carta i
+carta i <-- carta j 
+carta j <-- temp 
